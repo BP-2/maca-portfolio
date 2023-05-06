@@ -10,6 +10,8 @@ function Gallery() {
     <div>
         <h3>Gallery</h3>
         <iframe width="80%" height="500px" allowFullScreen="true" allow="accelerometer; magnetometer; gyroscope" className="gallery" src="https://panoraven.com/en/embed/JkuKJcz64P"></iframe>
+        <br/>
+        <br/>
         <iframe width="80%" height="500px" allowFullScreen="true" allow="accelerometer; magnetometer; gyroscope" className="gallery" src="https://panoraven.com/en/embed/sIOMPZrqVS"></iframe>
         <p className="read-the-docs">
             Use the menu to look through each of the pictures.  You can also click and drag to look around.  
