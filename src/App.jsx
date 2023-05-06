@@ -25,7 +25,7 @@ function App() {
       <p className="read-the-docs">
         Special thanks to the National Parks Service and the team in the <a href = "https://www.nps.gov/maca/learn/management/staffandoffices.htm">Science and Resource Management Department </a>at 
         Mammoth Cave National Park for all the support shown to me throughout the experience, and a thanks to the <a href = "https://www.ohio.edu/honors/cutler-scholars">Cutler 
-        Scholars program</a> for awarding me with the experiential learning grant to make this all possible.
+        Scholars program</a> for awarding me with the exploration learning grant to make this all possible.
         <br/><br/>
         One last thank you to my advisor <b>Liz Thomas</b>.  She made this summer one of the best experiences of my life and became both a mentor and one of my closest friends at the park.
         <br/><br/>
