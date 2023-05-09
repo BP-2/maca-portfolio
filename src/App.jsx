@@ -2,6 +2,7 @@ import { useState } from "react";
 import npLogo from "./assets/np-logo.png";
 import cutlerLogo from "./assets/cutler-logo.jpeg";
 import Gallery from "./Gallery";
+
 import "./App.css";
 
 function App() {
@@ -9,6 +10,11 @@ function App() {
 
   return (
     <>
+      <div className="navbar">
+        <a href="https://brady-phelps.dev/" className="logo-brady">
+          BP
+        </a>
+      </div>
       <div>
         <a href="https://www.nps.gov/index.htm" target="_blank">
           <img
